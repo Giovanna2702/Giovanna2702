@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Giovanna
+- 👀 I’m interested in Desenvolvimento Front-end
+- 🌱 I’m currently learning HTML CSS JAVASCRIPT
